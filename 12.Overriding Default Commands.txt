@@ -1,0 +1,2 @@
+1. docker run busybox ls
+2. docker run hello-world echo

@@ -1,0 +1,11 @@
+1. docker ps --all
+2. docker run
+3. docker create
+4. docker start
+
+create container
+5. docker create hello-world
+docker start -a 23123123qdsadasd14125125 (dari id container hello-world)
+or
+docker start 23123123qdsadasd14125125 (dari id container hello-world)
+docker ps --all

@@ -1,0 +1,5 @@
+1. docker ps
+2. docker run busybox echo hi there
+3. docker run busybox ping google.com
+4. docker ps
+5. docker ps ---all

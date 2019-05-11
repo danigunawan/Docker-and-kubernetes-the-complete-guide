@@ -1,0 +1,2 @@
+1. build docker image and push it to docker hub
+http://blog.shippable.com/build-a-docker-image-and-push-it-to-docker-hub
